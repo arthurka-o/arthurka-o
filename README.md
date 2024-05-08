@@ -16,8 +16,7 @@ Started as a Ruby on Rails developer (Ruby 🩷), now I'm writing Smart Contract
 - Account Abstraction
 
 🤔 I’m looking for:
-- Job. Please, I need a job or I have to return to Russia. It's not a joke, I'm in trouble and need help.
-- [My CV](https://arthurka.eu/cv.pdf)
+- Devs who want to make silly projects with me
 
 <!--
 **arthurka-o/arthurka-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
