@@ -10,13 +10,6 @@ Started as a Ruby on Rails developer (Ruby 🩷), now I'm writing Smart Contract
 - Streaming and VTubers
 - forsen
 
-🧠 Currently exploring:
-- Deep learning
-- Blender
-
-🤔 I’m looking for:
-- web3 devs who don't chase easy money and want to build something cool and useful on-chain
-
 <!--
 **arthurka-o/arthurka-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
