@@ -1,14 +1,4 @@
-### Hi there 👋
-Started as a Ruby on Rails developer (Ruby 🩷), now I'm writing Smart Contracts with Solidity! ⚡
-
-😍 Things I'm into:
-- FLOSS
-- Decentralized and Trustless protocols
-- Ruby on Rails way
-- 3D Printing (and modeling)
-- Singing
-- Streaming and VTubers
-- forsen
+### I'm Arthur and I do stuff
 
 <!--
 **arthurka-o/arthurka-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
