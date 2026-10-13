@@ -1,5 +1,7 @@
-### I'm Arthur and I do stuff
-WORK IN PROGRESS
+https://arthurka.eu
+
+![website preview](https://github.com/arthurka-o/personal-website/blob/main/assets/og.png)
+
 <!--
 **arthurka-o/arthurka-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
